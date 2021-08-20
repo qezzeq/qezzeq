@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...apps & websites for small business
 - 🌱 I’m currently learning ...kotlin & js
 - 💞️ I’m looking to collaborate on ...not sure yet
-- 📫 How to reach me ...tap your heels  times, close your eye and say theres no place like home.
+- 📫 How to reach me ...tap your heels 3 times, close your eye and say theres no place like home.
 
 <!---
 qezzeq/qezzeq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
